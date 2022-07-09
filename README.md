@@ -1,0 +1,2 @@
+# Automatic-Lighting-System-DIY-Project
+ To create an automatic lighting system with the help of ultrasonic sensors which can be used to turn on and off electrical appliances automatically by sensing the number of people present in the room.   . The system can be used in Cinema halls, multiplex, malls as well as in temples to count the number of persons entering inside. so that these places should not get overcrowded to avoid congestion  . The system will contain a Bluetooth module which can be used to control the lighting from a distant place using your voice
